@@ -1,0 +1,14 @@
+[
+    {
+      "relation": [
+        "delegate_permission/common.handle_all_urls"
+      ],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.example.focus",
+        "sha256_cert_fingerprints": [
+          "C4:AA:6F:3E:4C:9E:C7:68:DC:3B:B1:EC:5C:DD:D8:6A:C4:0F:1F:D9:88:A9:CB:93:4B:1B:81:4A:0B:4E:E6:08"
+        ]
+      }
+    }
+  ]
